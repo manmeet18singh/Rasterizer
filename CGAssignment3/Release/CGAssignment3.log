@@ -1,0 +1,30 @@
+﻿  main.cpp
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 3\CGAssignment3\CGAssignment3\CGMath.h(33,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 3\CGAssignment3\CGAssignment3\CGMath.h(202,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 3\CGAssignment3\CGAssignment3\Shaders.h(32,22): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 3\CGAssignment3\CGAssignment3\Shaders.h(33,22): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 3\CGAssignment3\CGAssignment3\DrawFunctions.h(8,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 3\CGAssignment3\CGAssignment3\DrawFunctions.h(22,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 3\CGAssignment3\CGAssignment3\DrawFunctions.h(22,52): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 3\CGAssignment3\CGAssignment3\DrawFunctions.h(28,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 3\CGAssignment3\CGAssignment3\DrawFunctions.h(28,51): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 3\CGAssignment3\CGAssignment3\DrawFunctions.h(38,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 3\CGAssignment3\CGAssignment3\DrawFunctions.h(38,51): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 3\CGAssignment3\CGAssignment3\DrawFunctions.h(180,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 3\CGAssignment3\CGAssignment3\DrawFunctions.h(182,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 3\CGAssignment3\CGAssignment3\DrawFunctions.h(226,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 3\CGAssignment3\CGAssignment3\DrawFunctions.h(228,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 3\CGAssignment3\CGAssignment3\Grid.h(19,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 3\CGAssignment3\CGAssignment3\Grid.h(28,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 3\CGAssignment3\CGAssignment3\main.cpp(142,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  RasterSurface.cpp
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 3\CGAssignment3\CGAssignment3\RasterSurface.cpp(110,29): warning C4838: conversion from 'unsigned int' to 'LONG' requires a narrowing conversion
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 3\CGAssignment3\CGAssignment3\RasterSurface.cpp(110,37): warning C4838: conversion from 'unsigned int' to 'LONG' requires a narrowing conversion
+  XTime.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 3\CGAssignment3\CGAssignment3\DrawFunctions.h(25): warning C4715: 'getZBuff': not all control paths return a value
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 3\CGAssignment3\CGAssignment3\CGMath.h(223): warning C4715: 'matMat_4D_PerspectiveDivide': not all control paths return a value
+  All 508 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CGAssignment3.vcxproj -> C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 3\CGAssignment3\Release\CGAssignment3.exe
