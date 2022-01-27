@@ -1,0 +1,44 @@
+﻿  main.cpp
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\CGMath.h(33,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\CGMath.h(128,45): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\CGMath.h(128,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\CGMath.h(129,45): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\CGMath.h(129,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\CGMath.h(130,45): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\CGMath.h(130,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\CGMath.h(131,45): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\CGMath.h(131,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\CGMath.h(148,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\CGMath.h(149,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\CGMath.h(150,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\CGMath.h(151,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\CGMath.h(168,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\CGMath.h(169,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\CGMath.h(170,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\CGMath.h(171,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\CGMath.h(328,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\Shaders.h(35,22): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\Shaders.h(36,22): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\DrawFunctions.h(8,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\DrawFunctions.h(22,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\DrawFunctions.h(22,52): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\DrawFunctions.h(28,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\DrawFunctions.h(29,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\DrawFunctions.h(30,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\DrawFunctions.h(30,51): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\DrawFunctions.h(40,79): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\DrawFunctions.h(40,119): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\DrawFunctions.h(232,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\DrawFunctions.h(234,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\DrawFunctions.h(252,7): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\DrawFunctions.h(252,7): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\DrawFunctions.h(252,10): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\DrawFunctions.h(252,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\Grid.h(19,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\Grid.h(28,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\main.cpp(158,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\main.cpp(195,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\main.cpp(198,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\CGMath.h(349): warning C4715: 'matMat_4D_PerspectiveDivide': not all control paths return a value
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\CGAssignment4\DrawFunctions.h(25): warning C4715: 'getZBuff': not all control paths return a value
+  CGAssignment4.vcxproj -> C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 4\CGAssignment4\Debug\CGAssignment4.exe
