@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 2\CGAssignment2\CGAssignment2\CGMath.h(29,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 2\CGAssignment2\CGAssignment2\CGMath.h(182,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 2\CGAssignment2\CGAssignment2\DrawFunctions.h(14,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 2\CGAssignment2\CGAssignment2\DrawFunctions.h(14,51): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 2\CGAssignment2\CGAssignment2\Grid.h(19,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 2\CGAssignment2\CGAssignment2\Grid.h(28,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 2\CGAssignment2\CGAssignment2\main.cpp(74,94): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 2\CGAssignment2\CGAssignment2\main.cpp(92,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  RasterSurface.cpp
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 2\CGAssignment2\CGAssignment2\RasterSurface.cpp(110,29): warning C4838: conversion from 'unsigned int' to 'LONG' requires a narrowing conversion
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 2\CGAssignment2\CGAssignment2\RasterSurface.cpp(110,37): warning C4838: conversion from 'unsigned int' to 'LONG' requires a narrowing conversion
+  XTime.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 2\CGAssignment2\CGAssignment2\CGMath.h(203): warning C4715: 'matMat_4D_PerspectiveDivide': not all control paths return a value
+  All 429 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CGAssignment2.vcxproj -> C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 2\CGAssignment2\Release\CGAssignment2.exe

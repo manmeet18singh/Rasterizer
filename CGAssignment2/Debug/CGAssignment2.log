@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 2\CGAssignment2\CGAssignment2\CGMath.h(29,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 2\CGAssignment2\CGAssignment2\CGMath.h(182,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 2\CGAssignment2\CGAssignment2\DrawFunctions.h(23,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 2\CGAssignment2\CGAssignment2\DrawFunctions.h(23,51): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 2\CGAssignment2\CGAssignment2\Grid.h(19,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 2\CGAssignment2\CGAssignment2\Grid.h(28,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 2\CGAssignment2\CGAssignment2\main.cpp(76,94): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 2\CGAssignment2\CGAssignment2\main.cpp(94,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 2\CGAssignment2\CGAssignment2\CGMath.h(203): warning C4715: 'matMat_4D_PerspectiveDivide': not all control paths return a value
+  CGAssignment2.vcxproj -> C:\Users\Manmeet Singh\Desktop\Computer Graphics\Week 2\CGAssignment2\Debug\CGAssignment2.exe
